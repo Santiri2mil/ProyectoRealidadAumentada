@@ -178,8 +178,8 @@
     <Compile Include="Library\PackageCache\com.unity.timeline@1.7.5\Editor\Utilities\TrackModifier.cs" />
     <Compile Include="Library\PackageCache\com.unity.timeline@1.7.5\Editor\Utilities\StyleNormalColorOverride.cs" />
     <Compile Include="Library\PackageCache\com.unity.timeline@1.7.5\Editor\Window\ViewModel\TimelineAssetViewModel.cs" />
-    <Compile Include="Library\PackageCache\com.unity.timeline@1.7.5\Editor\MenuPriority.cs" />
     <Compile Include="Library\PackageCache\com.unity.timeline@1.7.5\Editor\Playables\ControlPlayableInspector.cs" />
+    <Compile Include="Library\PackageCache\com.unity.timeline@1.7.5\Editor\MenuPriority.cs" />
     <Compile Include="Library\PackageCache\com.unity.timeline@1.7.5\Editor\Window\ViewModel\TimelineAssetViewModel_versions.cs" />
     <Compile Include="Library\PackageCache\com.unity.timeline@1.7.5\Editor\Window\TimelineWindow_PlaybackControls.cs" />
     <Compile Include="Library\PackageCache\com.unity.timeline@1.7.5\Editor\treeview\Drawers\InfiniteTrackDrawer.cs" />
@@ -212,10 +212,10 @@
     <Compile Include="Library\PackageCache\com.unity.timeline@1.7.5\Editor\CustomEditors\MarkerEditor.cs" />
     <Compile Include="Library\PackageCache\com.unity.timeline@1.7.5\Editor\Items\ItemsUtils.cs" />
     <Compile Include="Library\PackageCache\com.unity.timeline@1.7.5\Editor\inspectors\TimelinePreferences.cs" />
-    <Compile Include="Library\PackageCache\com.unity.timeline@1.7.5\Editor\Actions\IAction.cs" />
     <Compile Include="Library\PackageCache\com.unity.timeline@1.7.5\Editor\treeview\ItemGui\TimelineMarkerGUI.cs" />
     <Compile Include="Library\PackageCache\com.unity.timeline@1.7.5\Editor\Actions\TimelineAction.cs" />
     <Compile Include="Library\PackageCache\com.unity.timeline@1.7.5\Editor\Window\TimelineWindow_TimeArea.cs" />
+    <Compile Include="Library\PackageCache\com.unity.timeline@1.7.5\Editor\Actions\IAction.cs" />
     <Compile Include="Library\PackageCache\com.unity.timeline@1.7.5\Editor\treeview\TrackGui\TimelineTrackGUI.cs" />
     <Compile Include="Library\PackageCache\com.unity.timeline@1.7.5\Editor\Animation\CurvesProxy.cs" />
     <Compile Include="Library\PackageCache\com.unity.timeline@1.7.5\Editor\treeview\Drawers\Layers\MarkersLayer.cs" />
@@ -328,8 +328,8 @@
     <Compile Include="Library\PackageCache\com.unity.timeline@1.7.5\Editor\inspectors\CurvesOwner\ICurvesOwnerInspectorWrapper.cs" />
     <Compile Include="Library\PackageCache\com.unity.timeline@1.7.5\Editor\Manipulators\HeaderSplitterManipulator.cs" />
     <Compile Include="Library\PackageCache\com.unity.timeline@1.7.5\Editor\Window\OverlayDrawer.cs" />
-    <Compile Include="Library\PackageCache\com.unity.timeline@1.7.5\Editor\treeview\TimelineClipUnion.cs" />
     <Compile Include="Library\PackageCache\com.unity.timeline@1.7.5\Editor\Window\TimelineWindow_TimeCursor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.timeline@1.7.5\Editor\treeview\TimelineClipUnion.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Library\PackageCache\com.unity.timeline@1.7.5\Editor\Unity.Timeline.Editor.asmdef" />
